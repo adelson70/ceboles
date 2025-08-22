@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "Tradutor do Cebolinha",
+  "version": "1.0",
+  "description": "Corrige a internet, trocando o 'r' pelo 'l' como o Cebolinha.",
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ],
+
+  "action": {
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png"
+    }
+  },
+
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}
