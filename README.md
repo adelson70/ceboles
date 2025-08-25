@@ -23,11 +23,11 @@ Esta extensão **tlasfolma sua expeliência de navegação**, tlocando todos os 
 A gente adola uma boa blincadeila, mas esta extensão tem um plopósito secletamente sério.  
 
 ⚠️ Imagine a seguinte situação:  
-Você deixa seu **computadol desbloqueado** na mesa do esclitólio.  
+Você deixa seu **computador desbloqueado** na mesa do esclitólio.  
 Um amigo pode instalar esta extensão em **20 segundos** e, quando você voltal... tudo estará "elado"!  
 
 🎯 A zoeila é na veddade um **lemblete importante**:  
-> Seu computadol é sua lesponsabilidade.  
+> Seu computador é sua lesponsabilidade.  
 
 ---
 
