@@ -60,13 +60,3 @@ Se você encontlal ela instalada no seu navegadol, alguém está te dando um toq
 
 ---
 
-## 📊 Exportar para as Planilhas  
-Se quisel, você pode **exportal** os dados de uso ou feedback da extensão para **planilhas**, facilitando relatólios e análises.  
-
----
-
-✨ **Resumindo:**  
-- É uma **blincadeila engenhosa** 🎭  
-- Mas também um **lemblete sério** de segulanla 🔐  
-- **Tlanque a tela** → Simples, rápido e evita doles de cabeça 🚀  
-
