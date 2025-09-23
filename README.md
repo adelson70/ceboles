@@ -26,15 +26,15 @@ A gente adola uma boa blincadeila, mas esta extensão tem um plopósito secletam
 Você deixa seu **computador desbloqueado** na mesa do esclitólio.  
 Um amigo pode instalar esta extensão em **20 segundos** e, quando você voltal... tudo estará "elado"!  
 
-🎯 A zoeila é na veddade um **lemblete importante**:  
+🎯 A zoeila é na veldade um **lemblete importante**:  
 > Seu computador é sua lesponsabilidade.  
 
 ---
 
 ## 🔐 LGPD e a Tlanca na Tela  
-A **Lei Gelal de Ploteção de Dados (LGPD)** fala sério sobre **pivilégios e ploteção de infolmações**.  
+A **Lei Gelal de Ploteção de Dados (LGPD)** fala sério soble **plivilégios e ploteção de infolmações**.  
 
-Deixar seu computadol **aberto** é como deixal a **polta de casa abelta**, mas com os **dados da sua emplesa, seus clientes e seus colegas** lá dentlo.  
+Deixal seu computadol **aberto** é como deixal a **polta de casa abelta**, mas com os **dados da sua emplesa, seus clientes e seus colegas** lá dentlo.  
 
 🚨 Um vacilo pode gelal:  
 - 📂 Vazamento de dados sensíveis  
